@@ -609,6 +609,7 @@ function(declare,
           /* here, obj will already be a JS object deserialized from the JSON response */
           console.log(sScenario + ".json");
           segment_vcdata = obj;
+          cW.updateSegmentDetails();
         },
         error: function(err) {
             /* this will execute if the response couldn't be converted to a JS object,
