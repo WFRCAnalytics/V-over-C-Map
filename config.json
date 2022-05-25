@@ -24,7 +24,7 @@
   "portalUrl": "https://wfrc.maps.arcgis.com",
   "appId": "",
   "authorizedCrossOriginDomains": [],
-  "title": "  WFRC - Congestion Forecast (Factored V/C Ratios) ",
+  "title": "  Traffic Congestion Forecast (Factored V/C Ratios) ",
   "subtitle": "WFRC 2019 RTP 8.3.2 2021-11-10",
   "keepAppState": true,
   "logo": "images/logo.png",
